@@ -1,0 +1,122 @@
+[ 
+	{ 
+		"id": 1001, 
+		"imageUrl": "/assets/girl 1.jpg", 
+		"firstName": "Tathsarani", 
+		"lastName": "Liyanage", 
+		"email": "tathsaraniliyanage@gmail.com", 
+		"contactNumber": "4121091095", 
+		"age": 23, 
+		"dob": "26/08/2001", 
+		"salary": 1, 
+		"address": "Galle"
+	}, 
+	{ 
+		"id": 1002, 
+		"imageUrl": "/assets/girl 22.jpg", 
+		"firstName": "sayumi", 
+		"lastName": "amanda", 
+		"email": "sayumiamanda24@gmail.com", 
+		"contactNumber": "4914696673", 
+		"age": 24, 
+		"dob": "28/06/2000", 
+		"salary": 2, 
+		"address": "Panadura"
+	}, 
+	{ 
+		"id": 1003, 
+		"imageUrl": "/assets/girl 26.jpg", 
+		"firstName": "Deena", 
+		"lastName": "Halvitige", 
+		"email": "DeenaHalvitige@gmail.com", 
+		"contactNumber": "4479795571", 
+		"age": 29, 
+		"dob": "06/01/1993", 
+		"salary": 3, 
+		"address": "Kandy"
+	}, 
+	{ 
+		"id": 1004, 
+		"imageUrl": "/assets/girl 4.jpg", 
+		"firstName": "Melisa", 
+		"lastName": "Samadi", 
+		"email": "Melisasamadi@gmail.com", 
+		"contactNumber": "4443995334", 
+		"age": 22, 
+		"dob": "06/09/1984", 
+		"salary": 4, 
+		"address": "Badulla"
+	}, 
+	{ 
+		"id": 1005, 
+		"imageUrl": "/assets/girl 32.jpg", 
+		"firstName": "isha", 
+		"lastName": "perera", 
+		"email": "ishaperera@gmail.com", 
+		"contactNumber": "4505692843", 
+		"age": 28, 
+		"dob": "14/03/1933", 
+		"salary": 5, 
+		"address": "Matara"
+	}, 
+	{ 
+		"id": 1006, 
+		"imageUrl": "/assets/girl 9.jpg", 
+		"firstName": "Mali", 
+		"lastName": "Gunasekara", 
+		"email": "Maligunasekara@gmail.com", 
+		"contactNumber": "4746199430", 
+		"age": 24, 
+		"dob": "24/07/1966", 
+		"salary": 6, 
+		"address": "Colombo"
+	}, 
+	{ 
+		"id": 1007, 
+		"imageUrl": "/assets/girl 20.jpg", 
+		"firstName": "sonali", 
+		"lastName": "pathirana", 
+		"email": "sonalipathirana@gmail.com", 
+		"contactNumber": "4859095720", 
+		"age": 23, 
+		"dob": "26/12/1940", 
+		"salary": 7, 
+		"address": "Matale"
+	}, 
+	{ 
+		"id": 1008, 
+		"imageUrl": "/assets/girl 3.jpg", 
+		"firstName": "devindi", 
+		"lastName": "Wijekon", 
+		"email": "devindiwijekon@gmail.com", 
+		"contactNumber": "4379190775", 
+		"age": 25, 
+		"dob": "24/06/1986", 
+		"salary": 8, 
+		"address": "Hambantota"
+	}, 
+	{ 
+		"id": 1009, 
+		"imageUrl": "/assets/girl 16.jpg", 
+		"firstName": "alya", 
+		"lastName": "peris", 
+		"email": "alyaperis@gmail.com", 
+		"contactNumber": "4394091994", 
+		"age": 27, 
+		"dob": "17/08/1956", 
+		"salary": 9, 
+		"address": "Moratuwa"
+	}, 
+	{ 
+		"id": 1010, 
+		"imageUrl": "/assets/girl 17.jpg", 
+		"firstName": "windya", 
+		"lastName": "kavindi", 
+		"email": "windyakavindi@gmail.com", 
+		"contactNumber": "4622392580", 
+		"age": 21, 
+		"dob": "21/01/1981", 
+		"salary": 10, 
+		"address": "Matara"
+	} 
+]
